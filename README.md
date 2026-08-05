@@ -30,6 +30,12 @@ The complete training and evaluation pipeline was built independently using **Mo
 
 ---
 
+## Images 
+<img width="1400" height="661" alt="image" src="https://github.com/user-attachments/assets/398fd408-634f-492c-ad85-5f2d0570b44a" />
+<img width="1400" height="668" alt="image" src="https://github.com/user-attachments/assets/519c8766-5a7f-4de0-a043-ca0096e1407f" />
+<img width="932" height="617" alt="image" src="https://github.com/user-attachments/assets/c418ce3c-f38a-4ebb-8c6a-4e9e5b5ac233" />
+
+---
 # 📊 Benchmark Results
 
 | Benchmark | Chitti | Reference | Result |
